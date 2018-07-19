@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Unit/.idea/Unit.iml" filepath="$PROJECT_DIR$/../Unit/.idea/Unit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../automation_testing_day01/.idea/automation_testing_day01.iml" filepath="$PROJECT_DIR$/../automation_testing_day01/.idea/automation_testing_day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../homework/.idea/homework.iml" filepath="$PROJECT_DIR$/../homework/.idea/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python_port_show_day01.iml" filepath="$PROJECT_DIR$/.idea/python_port_show_day01.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Unit/unitX/.idea/unitX.iml" filepath="$USER_HOME$/Desktop/Unit/unitX/.idea/unitX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webdriverTest/.idea/webdriverTest.iml" filepath="$PROJECT_DIR$/../webdriverTest/.idea/webdriverTest.iml" />
+    </modules>
+  </component>
+</project>
